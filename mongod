@@ -1,1 +1,1 @@
-'C:\mongodb\bin\mongod.exe' --dbpath='D:\webDev\WebDevBootCamp\Projects\YelpCamp\data' --nojournal
+'/usr/bin/mongod' --dbpath='/home/user/webDev/WebDevBootCamp/Projects/YelpCamp/data' --nojournal
