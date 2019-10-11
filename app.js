@@ -22,7 +22,8 @@ mongoose.connect("mongodb://localhost:27017/yelp_camp", {
     useNewUrlParser: true,
     useUnifiedTopology: true
 })
-seedDB();
+//seed the database
+//seedDB();
 
 //=========================//
 //passport configuration
